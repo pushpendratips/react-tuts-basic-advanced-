@@ -1,5 +1,7 @@
 function App() {
-  console.log("Hello world");
+  const data = { name: "pushpendra" };
+  console.log(data);
+
   return <div className="App"></div>;
 }
 
