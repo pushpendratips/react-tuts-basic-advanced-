@@ -1,8 +1,12 @@
-function App() {
-  const data = { name: "pushpendra" };
-  console.log(data);
+import React from "react";
+import Hoisting from "./javascript-tuts/Hoisting";
 
-  return <div className="App"></div>;
-}
+const App = () => {
+  return (
+    <>
+      <Hoisting />
+    </>
+  );
+};
 
 export default App;
