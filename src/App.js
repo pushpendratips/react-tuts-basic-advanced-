@@ -1,10 +1,10 @@
 import React from "react";
-import Call from "./javascript-tuts/Call";
+import BindDataCall from "./javascript-tuts/BindDataCall";
 
 const App = () => {
   return (
     <div>
-      <Call />
+      <BindDataCall />
     </div>
   );
 };
