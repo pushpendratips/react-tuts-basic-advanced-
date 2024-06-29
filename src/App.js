@@ -1,10 +1,10 @@
 import React from "react";
-import ProtoType from "./javascript-tuts/ProtoType";
-
+import Names, { Person } from "./javascript-tuts/StaticClass";
 const App = () => {
   return (
     <div>
-      <ProtoType />
+      <Names />
+      <Person />
     </div>
   );
 };
