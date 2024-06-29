@@ -1,11 +1,11 @@
 import React from "react";
-import Hoisting from "./javascript-tuts/Hoisting";
+import Apply from "./javascript-tuts/Apply";
 
 const App = () => {
   return (
-    <>
-      <Hoisting />
-    </>
+    <div>
+      <Apply />
+    </div>
   );
 };
 
