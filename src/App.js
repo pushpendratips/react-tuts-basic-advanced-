@@ -1,10 +1,10 @@
 import React from "react";
-import BindDataCall from "./javascript-tuts/BindDataCall";
+import ProtoType from "./javascript-tuts/ProtoType";
 
 const App = () => {
   return (
     <div>
-      <BindDataCall />
+      <ProtoType />
     </div>
   );
 };
