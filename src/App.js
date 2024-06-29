@@ -1,10 +1,10 @@
 import React from "react";
-import Apply from "./javascript-tuts/Apply";
+import Call from "./javascript-tuts/Call";
 
 const App = () => {
   return (
     <div>
-      <Apply />
+      <Call />
     </div>
   );
 };
